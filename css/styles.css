@@ -1,0 +1,28 @@
+body
+{
+	font-family: Chunk-Five Ex;
+	background-color: #039BE5;
+}
+
+@font face {
+	font-family: "Chunk-Five Ex";
+	src : url("css/Chunkfive Ex.ttf")
+}
+
+.thumbnail
+{
+	background-color: #87D37C;
+	font-family: Chunk-Five Ex;
+}
+
+
+.title
+{
+	background-color:#078F9F;
+	font-color: #ffff;
+}
+
+nav-item nav-link
+{
+	font-size: 24px;
+}
